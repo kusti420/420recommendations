@@ -2,7 +2,7 @@
 name: If you spot some sort of problem
 about: Describe the issue in question
 title: ''
-labels: Duplicate, Other, Typo
+labels: Problem
 assignees: kusti420
 
 ---
